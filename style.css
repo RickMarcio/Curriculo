@@ -1,0 +1,65 @@
+.foto{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid rgb(12, 1, 1);
+    display: block;
+    margin: 0px auto;
+}
+
+header{
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    font-family: Arial;
+}
+
+p{
+    display: block;
+    margin-block-start: 6px;
+    margin-block-end: 6px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.linha{
+    border-top: 1px solid black;
+}
+
+.objetivo {
+    font-family: arial;
+    margin: 2% 0 0 5%;
+}
+
+h2{
+    margin: 2% 0 1% 5%;
+}
+
+.formacao {
+    font-family: arial;
+    margin: 2% 0 0 5%;
+}
+
+.quali {
+    font-family: arial;
+    margin: 2% 0 0 5%;
+}
+
+.exp {
+    font-family: arial;
+    margin: 2% 0 0 5%; 
+}
+
+footer{
+    font-family:'Times New Roman';
+    margin: 8% 0 2% 0;
+    text-align: center;
+}
+
+strong{
+    font-style: italic;
+}
